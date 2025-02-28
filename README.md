@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ecovium-cloud-platform/Shipping/_apis/build/status%2Fchesse-ecovium.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/ecovium-cloud-platform/Shipping/_build/latest?definitionId=458&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
